@@ -1,11 +1,15 @@
 <h1>Wireshark for Network Security Analysis</h1>
-
-
+</br>
 <h2>Description</h2>
 
-•
+• Practiced troubleshooting with Wireshark, captured traffic and analyzed acquired traffic. Used display and capture filters to examine details.</br>
+• Generated, captured and analyzed RADIUS, DNS, HTTP and Telnet unencrypted traffic. Decrypted a RADIUS encrypted password.</br>
+• Generated, captured and analyzed SSH and HTTPS encrypted Traffic. Decrypted HTTPS traffic in Wireshark.</br>
 
-•
+<h2>Utilities</h2>
+
+• Wireshark</br>
+
 Using Wireshark and most of its functionalities: capturing some network traffic that is flowing through your machine now and analyzing captured network traffic by opening a stored capture file.
 
 •
